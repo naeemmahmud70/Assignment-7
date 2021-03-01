@@ -1,10 +1,10 @@
 [{
     "id": 1,
-    "name": "Sakib Al-Hasan",
+    "name": "Andre Russel",
     "email": "msea0@reuters.com",
-    "salary": 327854,
-    "country": "BanglaDesh",
-    "image": "https://i.postimg.cc/jdxMDxSP/shakib-al-hasan.png"
+    "salary": 3848932,
+    "country": "South Africa",
+    "image": "https://i.postimg.cc/fyGGWGDP/rasels.jpg"
   }, {
     "id": 2,
     "name": "Virat Kohli",
@@ -28,18 +28,18 @@
     "image": "https://i.postimg.cc/6p3wfxYG/smith.jpg"
   }, {
     "id": 6,
-    "name": "Mostafiz",
+    "name": "Cries Gyle",
     "email": "kcasellas5@cpanel.net",
     "salary": 7508777,
-    "country": "Bangladesh",
-    "image": "https://i.postimg.cc/qMDW0hxz/images.jpg"
+    "country": "West Indies",
+    "image": "https://i.postimg.cc/nrSLdcKD/gail.jpg"
   }, {
     "id": 7,
-    "name": "Rohit Sharma",
+    "name": "Ms. Dhoni",
     "email": "rsharville6@princeton.edu",
     "salary": 3047229,
     "country": "India",
-    "image": "https://i.postimg.cc/52FKVPtR/rohit.jpg"
+    "image": "https://i.postimg.cc/QCv39Bk0/mohamodullah.jpg"
   }, {
     "id": 8,
     "name": "Starc",
@@ -64,9 +64,9 @@
   },
   {
     "id": 3,
-    "name": "Hashim Amla",
+    "name": "Mahmodullah",
     "email": "bgoodman2@drupal.org",
-    "salary": 9769779,
+    "salary": 3743274,
     "country": "South Africa",
-    "image": "https://i.postimg.cc/ZnBKHtTc/sahid.jpg"
+    "image": "https://i.postimg.cc/Px2fxrRR/index.jpg"
   }]

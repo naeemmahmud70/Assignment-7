@@ -2,7 +2,6 @@ import React from 'react';
 
 const Count = (props) => {
     const count = props.count
-    console.log(count)
 
     const totalBudget = count.reduce((sum, player) => sum + player.salary, 0)
 
