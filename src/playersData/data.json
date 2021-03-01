@@ -1,0 +1,72 @@
+[{
+    "id": 1,
+    "name": "Sakib Al-Hasan",
+    "email": "msea0@reuters.com",
+    "salary": 327854,
+    "country": "BanglaDesh",
+    "image": "https://i.postimg.cc/jdxMDxSP/shakib-al-hasan.png"
+  }, {
+    "id": 2,
+    "name": "Virat Kohli",
+    "email": "anormadell1@washingtonpost.com",
+    "salary": 6702065,
+    "country": "India",
+    "image": "https://i.postimg.cc/nrgMfVdg/kohli.jpg"
+  }, {
+    "id": 4,
+    "name": "Sahid Afridi",
+    "email": "lburberry3@nifty.com",
+    "salary": 974437,
+    "country": "Pakistan",
+    "image": "https://i.postimg.cc/5t2HzrFP/afridi.jpg"
+  }, {
+    "id": 5,
+    "name": "Smith",
+    "email": "phalleybone4@theatlantic.com",
+    "salary": 7242471,
+    "country": "Australia",
+    "image": "https://i.postimg.cc/6p3wfxYG/smith.jpg"
+  }, {
+    "id": 6,
+    "name": "Mostafiz",
+    "email": "kcasellas5@cpanel.net",
+    "salary": 7508777,
+    "country": "Bangladesh",
+    "image": "https://i.postimg.cc/qMDW0hxz/images.jpg"
+  }, {
+    "id": 7,
+    "name": "Rohit Sharma",
+    "email": "rsharville6@princeton.edu",
+    "salary": 3047229,
+    "country": "India",
+    "image": "https://i.postimg.cc/52FKVPtR/rohit.jpg"
+  }, {
+    "id": 8,
+    "name": "Starc",
+    "email": "rpietesch7@woothemes.com",
+    "salary": 2413315,
+    "country": "Australia",
+    "image": "https://i.postimg.cc/BZYm1WLz/index.jpg"
+  }, {
+    "id": 9,
+    "name": "Warner",
+    "email": "bmagarrell8@themeforest.net",
+    "salary": 5643347,
+    "country": "Australia",
+    "image": "https://i.postimg.cc/JndjtL6c/warner.jpg"
+  }, {
+    "id": 10,
+    "name": "Watson",
+    "email": "sdelagua9@home.pl",
+    "salary": 9480484,
+    "country": "England",
+    "image": "https://i.postimg.cc/jSQ38MS0/watson.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hashim Amla",
+    "email": "bgoodman2@drupal.org",
+    "salary": 9769779,
+    "country": "South Africa",
+    "image": "https://i.postimg.cc/ZnBKHtTc/sahid.jpg"
+  }]

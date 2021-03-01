@@ -1,0 +1,10 @@
+.playerDiv{
+    width: 700px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+}
+.detailsDiv{
+    margin-left: 15px;
+    
+}
